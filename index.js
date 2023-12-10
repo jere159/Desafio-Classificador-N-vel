@@ -1,5 +1,5 @@
-const nome = "nome"; // Substitua isso pela variável que contém o nome do herói
-const XP = 7000; // Substitua isso pela variável que contém a pontuação do herói
+nome = ("Seiya"); //Substituir pelo nome do Herói
+XP = 3000; //Substituir pela quantidade de XP
 
 let nivel;
 
